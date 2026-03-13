@@ -130,6 +130,7 @@ Key highlights:
 
 ### International Business Partner
 **ITG Marketing Service** | Shanghai & Malaysia | May 2024 – Present
+*China-based integrated marketing and events agency specializing in cross-border brand activation and market entry strategy across the China-SEA corridor.*
 
 Directing comprehensive brand activation strategy and implementation across international markets, with focus on China-SEA corridor development.
 
@@ -142,6 +143,7 @@ Directing comprehensive brand activation strategy and implementation across inte
 
 ### General Manager, APAC
 **Aiken Digital** | Shanghai & Singapore | Dec 2022 – May 2024
+*AI-powered digital marketing agency serving global brands across APAC, specializing in live commerce, marketing automation, and media monitoring solutions. Clients include Mastercard, L'Oréal, and Ninja Van.*
 
 Executed complete business turnaround achieving quarterly profitability within 6 months through strategic repositioning, operational restructuring, and AI-driven growth initiatives.
 
@@ -157,6 +159,7 @@ Executed complete business turnaround achieving quarterly profitability within 6
 
 ### Head of UM Studios
 **IPG MediaBrands, UM China** | Shanghai | Dec 2020 – Dec 2021
+*UM (Universal McCann) is the leading global media network within IPG MediaBrands, managing $47B+ in marketing investment across media planning, buying, content strategy, and digital transformation for major brands worldwide.*
 
 Built new business division from concept to 6M+ yuan annual revenue within 12 months.
 
@@ -168,6 +171,7 @@ Built new business division from concept to 6M+ yuan annual revenue within 12 mo
 
 ### Regional Director, North Asia
 **Isentia** | Shanghai, Beijing, Hong Kong, Taipei | Jul 2018 – Sep 2020
+*APAC's leading media intelligence and data technology company, providing media monitoring, analytics, and insights across online, TV, radio, social media, and print. Headquartered in Sydney; acquired by Access Intelligence in 2021.*
 
 Inherited a business with 12 years of cumulative losses from 5 unintegrated M&A transactions. Delivered complete transformation in under 2 years.
 
@@ -192,6 +196,7 @@ Inherited a business with 12 years of cumulative losses from 5 unintegrated M&A 
 
 ### Managing Director
 **R/GA** | Shanghai | Oct 2016 – Mar 2017
+*Global independent creative innovation agency known for designing intelligent brand systems. Named Adweek's Digital Agency of the Decade (2009) and Campaign's Digital Innovation Agency of the Decade (2019). Key clients include Nike, Samsung, and Beats.*
 
 Directed market entry strategy and P&L management for R/GA's China expansion. Delivered integrated marketing strategies and campaigns for Nike, Converse, and Beats by Dr. Dre.
 
@@ -199,6 +204,7 @@ Directed market entry strategy and P&L management for R/GA's China expansion. De
 
 ### General Manager, Business Integration and Marketing
 **PICO Group** | Shanghai | Apr 2016 – Oct 2016
+*Hong Kong-listed global brand activation and experiential marketing company with 50+ years of history, operating across 40 major cities worldwide. Specializes in events, exhibitions, and integrated brand experiences.*
 
 Consolidated 5 newly acquired fragmented business units into unified PICO Plus operating model.
 
@@ -210,6 +216,7 @@ Consolidated 5 newly acquired fragmented business units into unified PICO Plus o
 
 ### Co-Founder and Managing Director
 **Deep Focus / FlipScript** | Shanghai & Hong Kong | Aug 2008 – Dec 2015
+*Co-founded independent digital marketing and brand activation agency serving luxury and consumer brands across Greater China. Acquired by Engine Group in 2013.*
 
 Built award-winning digital agency from 2-person startup to 160+ employees generating 30M+ yuan annual revenue (120% of budget in 2015). Successfully exited to Engine Group in 2013.
 
@@ -227,6 +234,7 @@ Built award-winning digital agency from 2-person startup to 160+ employees gener
 
 ### Regional Account Director
 **Always Marketing (China)** | Aug 2007 – Aug 2008
+*WPP-owned field marketing agency and the largest retail activation network in China, operating 90+ fully-owned offices nationwide. Specializes in in-store promotions, merchandising, and on-the-ground brand execution.*
 
 Developed and executed retail activation strategies for Nokia across Greater China — interactive product promotions and in-store activations.
 
@@ -234,6 +242,7 @@ Developed and executed retail activation strategies for Nokia across Greater Chi
 
 ### Account Manager
 **OgilvyAction China** | Aug 2006 – Aug 2007
+*Ogilvy's dedicated brand activation and shopper marketing unit in China, part of WPP. Later merged into Geometry Global in 2013. Specialized in retail advertising, experiential campaigns, and integrated brand activation.*
 
 Managed brand activation campaigns for British American Tobacco, VISA, and Motorola. Focused on retail advertising execution and strategic planning.
 
@@ -241,6 +250,7 @@ Managed brand activation campaigns for British American Tobacco, VISA, and Motor
 
 ### Chinese Copywriter and Translator
 **TBWA-ISC Malaysia** | Kuala Lumpur | Jan 2004 – Aug 2006
+*Malaysian arm of TBWA Worldwide, a top-ten global advertising network (Omnicom Group) operating across 97 countries, known for its Disruption® philosophy. Crowned Agency of the Year at Malaysia's Kancil Awards.*
 
 Creative copywriting for TM, Tourism Malaysia, Proton, IKEA, Mars, Anchor Beer, and Resorts World. Contributed to award-winning campaigns.
 
